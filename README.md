@@ -15,7 +15,7 @@ This project analyzes Netflix dataset to uncover trends and insights.
 
 ## 📁 Project Files:
 - netflix-data-analysis.ipynb  
-- netflix_titles.csv  
+- netflix_titles.zip  
 
 ## 🚀 About Me:
 Aspiring Data scientist skilled in Python, SQL, and Data scientist.
